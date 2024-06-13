@@ -7,4 +7,4 @@ class InitialTest{
     }
 };
 
-new InitialTest("Yellow!")
+new InitialTest("Yellow! aha");
